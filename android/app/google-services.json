@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632819139475",
+    "project_id": "cits-assignment",
+    "storage_bucket": "cits-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632819139475:android:9a8e82fffa8c64dc77de66",
+        "android_client_info": {
+          "package_name": "com.example.cits_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632819139475-gpd6jve94esl60nc07rvthtbs6qh1jb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_77HBQiEq9F5Xx4w-guvCS3IAwHkFaOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632819139475-gpd6jve94esl60nc07rvthtbs6qh1jb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
